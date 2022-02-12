@@ -6,14 +6,16 @@ To design a wire frame for a website.
 ## DESIGN STEPS:
 
 ### Step 1:
-Write your design steps here 
+Install pencil software.
 
 ### Step 2:
-Write your design steps here
+Using pencil add contents and texts for webpage model.
 
 ## OUTPUT:
-include your output screenshots 
+![output](./web1.png)
+![output](./web2.png)
 
-
+### A common webpage:
+![output](./web3.png)
 ## Result:
 Thus a wire frame is designed for a given website.
